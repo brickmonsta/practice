@@ -1,2 +1,2 @@
 # practice
-this
+This was a high school project that I created with the stakeholder being my dad. Though my dad does not need one and this website was not used (the creation of the website was not intended to be used so a majority of the information is made up and the images from the internet), I have still learned a lot about HTML/CSS and also bootstrap. Most pages of the website are missing as I no longer have my school account so hopefully I can come back and finish off the site again.
