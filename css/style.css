@@ -1,0 +1,114 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: 0;
+}
+.navbar li a {
+    color: grey;
+}
+
+.navbar li:hover {
+    background-color: lightgrey;
+}
+
+body {
+    background-color: #6495ED;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.section {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/livingroom.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 100%;
+}
+
+.section {
+    text-align: center;
+    padding: 150px;
+}
+
+.section h1{
+    color: white;
+    font-size: 56px;
+    font-weight: bold;
+}
+
+.section p {
+    color: white;
+    padding-bottom: 5px;
+    font-family:monospace;
+}
+
+.section a { 
+    background: #6495ED;
+    color: white;
+    padding-top: 50px;
+    padding: 20px;
+    border-radius: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.section a:hover{ 
+    background: #7393B3;
+}
+
+.carousel-inner  {
+    text-align: center;
+    padding: 50px 110px 50px 110px;
+}
+
+.carousel-inner h2 {
+    font-weight:bold;
+}
+
+.carousel-inner p {
+    font-style: italic;
+}
+
+.services {
+    background-color: #dbe5e6;
+    padding: 30px 0;
+}
+
+.card-body {
+    box-shadow: 0 0 20px 7px rgba(0,0,0,0.1);
+}
+
+.card {
+    margin: 20px 10px;
+}
+
+.footer {
+    background-color:white;
+}
+
+.row h4{
+    padding-top: 10px;
+}
+    
+.row li{
+    padding-top: 10px;
+    list-style: none;
+    font-size: 12px
+}
+
+.row li a{
+    text-decoration: none;
+    color:black;
+}
+
+.row {
+    padding-bottom: 20px;
+}
+
+.ending {
+    text-align: center;
+    padding: 25px 0 10px 0;
+    background-color: #F2F2F2;
+}
